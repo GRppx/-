@@ -1,0 +1,14 @@
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\BackendApplication.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\config\H2ConsoleConfig.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\config\SecurityConfig.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\controller\BackendController.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\controller\GlobalExceptionHandler.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\controller\StatsController.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\controller\TaskController.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\controller\UserController.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\entity\Task.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\entity\User.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\repository\TaskRepository.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\repository\UserRepository.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\service\TaskService.java
+D:\Desktop\smart-todo-tracker\backend\src\main\java\com\smarttodo\backend\service\UserService.java

@@ -1,0 +1,16 @@
+com\smarttodo\backend\controller\UserController.class
+com\smarttodo\backend\controller\TaskController.class
+com\smarttodo\backend\controller\BackendController.class
+com\smarttodo\backend\entity\Task.class
+com\smarttodo\backend\entity\User$Role.class
+com\smarttodo\backend\service\TaskService.class
+com\smarttodo\backend\BackendApplication.class
+com\smarttodo\backend\repository\UserRepository.class
+com\smarttodo\backend\entity\Task$TaskStatus.class
+com\smarttodo\backend\config\SecurityConfig.class
+com\smarttodo\backend\service\UserService.class
+com\smarttodo\backend\entity\Task$TaskPriority.class
+com\smarttodo\backend\entity\User.class
+com\smarttodo\backend\controller\GlobalExceptionHandler.class
+com\smarttodo\backend\controller\StatsController.class
+com\smarttodo\backend\repository\TaskRepository.class
